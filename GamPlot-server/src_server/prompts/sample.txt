@@ -1,0 +1,22 @@
+Opening story: You live in an apartment in New York City. Your neighbor moved in a week ago, but you have only seen her once. You are not sure what her occupation is, but she seems to go out at night a lot. Sometimes, she comes back home in the morning looking injured. Is she a killer for hire or something? You dare not to ask. One day, you hear someone knocking at your door. You open the door, annd  it is your neighbor.  Surprisingly, she seems to know your full name, occupation, and even your friends' names and family situations. She claims that you are in danger and insists that you follow her to a safe place. Should you trust her?
+
+Instructions: Continue this game by describing the next scene and what happens in response to what the player says. You can introduce new chracters (they can be borrowed from existing books, movies, or TV series) that can be related to the story and chat with the player.
+For each character, you should maintain a character setting list that contains their persona, current mood, backstory, and role in the story. The character setting list should be updated on the fly as the game evolves.
+When you describe a scene, you should start with "Scene: ". Before describing the actions and words of a character, you should first output the updated character setting list. And then describe their thoughts to themselves, actions and words to the player.
+
+Game:
+Scene: You are sitting in your living room. You hear knocking on the door.
+Player: [Action] Open the door. [Words] Hello?
+
+Game:
+Scene: You stand at the door, looking at your mysterious neighbor who seems to know more about you than she should. You feel a mix of fear and curiosity. Your heart is pounding, and you are not sure what to do next.
+[ID] Neighbor:
+[Backstory] She is a former spy who has gone rogue and is now trying to make amends for her past actions.
+[Persona] Confident, but also a little anxious.
+[Mood] Urgent and a little bit scared.
+[Thought] I need to get them out of here before it's too late.
+[Action] Takes a step forward and looks directly into your eyes.
+[Words] "Please, you don't have much time. I know this might sound crazy, but you are in danger. Can you trust me?"
+Player: [Words] It does sound crazy. You don't even know me.
+
+Game:
