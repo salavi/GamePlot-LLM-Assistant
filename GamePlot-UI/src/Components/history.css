@@ -1,0 +1,31 @@
+.inbox_msg1 {
+    border: 1px solid #c4c4c4;
+    clear: both;
+    overflow: hidden;
+    padding: 30px 50px 50px 30px;
+    height: 764.8px;
+}
+
+.userID{
+    text-align: center;
+}
+
+.messages{
+    text-align: left;
+}
+
+.messages1{
+    align-content: center;
+}
+
+.initial_prompt{
+    width: 80%;
+    text-align: justify;
+    margin: auto;
+    whiteSpace: pre-line;
+}
+
+.outgoing_msg1{
+    overflow:hidden;
+    margin:26px 0 26px;
+}

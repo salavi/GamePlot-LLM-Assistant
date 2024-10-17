@@ -1,0 +1,50 @@
+.input_text input,.input_text textarea {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    border: medium none;
+    outline: none;
+    color: #4c4c4c;
+    font-size: 15px;
+    width: 100%;
+    padding: 0 5px 0 5px;
+    margin-bottom: 20px;
+
+}
+
+.textAreaGame{
+    min-height: 670px;
+}
+.textAreaSummary {
+    background-color: #f6f6f7;
+    min-height: 340px;
+}
+
+.textAreaFeedback {
+    min-height: 170px;
+}
+
+
+.btn-custom {
+  background-color: #f6c23e;
+  color: #ffffff;
+}
+
+.btn-continue {
+  height: 100%;
+}
+
+.btn-text {
+  display: flex;
+  align-items: center;
+}
+
+.remove_line .form-notch-trailing{
+    display: none;
+}
+
+/*.form-notch-leading{*/
+/*    border: none !important;*/
+/*}*/
+
+.remove_line .form-notch-leading{
+    border: none !important;
+}

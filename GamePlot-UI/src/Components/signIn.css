@@ -1,0 +1,12 @@
+body {
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+}
+
+.outline {
+    text-align: center;
+    /*border: 1px solid #c4c4c4;*/
+    clear: both;
+    overflow: hidden;
+    padding: 50px 200px 50px 200px;
+    height: 764.8px;
+}
